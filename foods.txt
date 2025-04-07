@@ -1,0 +1,5 @@
+# Food Database Format: identifier;keyword1,keyword2,...;calories;isComposite;componentId1,componentId2,...
+custurd;milk,fruits;150;0
+crust;piszza;500;0
+2;milk,fruits,piszza;650;1;custurd,crust
+check;item;144;0

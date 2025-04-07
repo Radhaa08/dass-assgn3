@@ -1,0 +1,12 @@
+Cheddar Cheese|cheese,dairy,protein|113
+Whole Milk|milk,dairy,beverage|149
+Hot Dog|meat,processed,sausage|150
+White Bread|bread,grain,carbs|80
+Peanut Butter|peanut,spread,protein|190
+Banana|fruit,potassium,sweet|105
+Apple|fruit,sweet,fiber|95
+Orange|fruit,citrus,vitamin c|62
+Spinach|vegetable,leafy,iron|7
+Chicken Breast|meat,protein,poultry|165
+Chocolate Bar|sweet,dessert,chocolate|210
+Pizza Slice|pizza,fast food,cheese|285
